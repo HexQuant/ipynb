@@ -1,2 +1,2 @@
-# exx
-All sorts of different Jupiter notebooks with examples
+# ipynb
+My drafts of jupyter notebooks :upside_down_face:
